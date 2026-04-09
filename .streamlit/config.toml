@@ -1,0 +1,18 @@
+[theme]
+base = "dark"
+primaryColor = "#38BDF8"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#111827"
+textColor = "#E5E7EB"
+linkColor = "#7DD3FC"
+borderColor = "#334155"
+showWidgetBorder = true
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#111827"
+textColor = "#E5E7EB"
+primaryColor = "#38BDF8"
+borderColor = "#334155"
+showWidgetBorder = true
